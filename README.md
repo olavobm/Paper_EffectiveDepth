@@ -1,0 +1,1 @@
+The repositoy Paper_EffectiveDepth has the code to analyze data and generate figures for the scientific paper entitled "An Effective Water Depth Correction for Pressure-Based Wave Statistics on Rough Bathymetry", currently in review for the Journal of Atmospheric and Oceanic Technology (JTECH).
