@@ -6,7 +6,7 @@ At the top directory level, this GitHub repository has:
 * run_all.m: a high-level script that runs all the code for the analysis and figures.
 
 
-The data has been archived in Zenodo (doi: 10.5281/zenodo.13242438). To reproduce the analysis, save the data repository (a folder named data) in the same level as the content in the Paper_EffectiveDepth GitHub repository.
+The data has been archived in this [Zenodo repository](https://doi.org/10.5281/zenodo.13242438). To reproduce the analysis, save the data repository (a folder named data) in the same level as the content in the Paper_EffectiveDepth GitHub repository.
 To reproduce the figures, you must also have [cmocean](https://github.com/chadagreene/cmocean) for a few colormaps.
 
 For using the repository, **first edit the directory path in paper_directory.m** to reflect the appropriate paper repository path in your machine.
