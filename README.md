@@ -1,4 +1,4 @@
-The repositoy Paper_EffectiveDepth has the code to analyze data and generate figures for the scientific paper entitled "An Effective Water Depth Correction for Pressure-Based Wave Statistics on Rough Bathymetry", published in the Journal of Atmospheric and Oceanic Technology (JTECH), [Marques et al. 2024](https://journals.ametsoc.org/view/journals/atot/41/11/JTECH-D-23-0118.1.xml).
+The repositoy Paper_EffectiveDepth has the code to analyze data and generate figures for the scientific paper "An Effective Water Depth Correction for Pressure-Based Wave Statistics on Rough Bathymetry", published in the Journal of Atmospheric and Oceanic Technology (JTECH), [Marques et al. 2024](https://journals.ametsoc.org/view/journals/atot/41/11/JTECH-D-23-0118.1.xml).
 At the top directory level, this GitHub repository has:
 * data_proc/: a directory with Matlab code to analyze the data.
 * figures/: a directory with Matlab code to generate the figures, along with the figures in the paper.
